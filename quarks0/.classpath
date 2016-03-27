@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/quarks/quarks/java8/lib/quarks.api.execution.jar"/>
+	<classpathentry kind="lib" path="C:/quarks/quarks/java8/lib/quarks.api.function.jar"/>
+	<classpathentry kind="lib" path="C:/quarks/quarks/java8/lib/quarks.api.graph.jar"/>
+	<classpathentry kind="lib" path="C:/quarks/quarks/java8/lib/quarks.api.oplet.jar"/>
+	<classpathentry kind="lib" path="C:/quarks/quarks/java8/lib/quarks.api.topology.jar"/>
+	<classpathentry kind="lib" path="C:/quarks/quarks/java8/lib/quarks.api.window.jar"/>
+	<classpathentry kind="lib" path="C:/quarks/quarks/java8/lib/quarks.providers.development.jar"/>
+	<classpathentry kind="lib" path="C:/quarks/quarks/java8/lib/quarks.providers.direct.jar"/>
+	<classpathentry kind="lib" path="C:/quarks/quarks/java8/lib/quarks.runtime.etiao.jar"/>
+	<classpathentry kind="lib" path="C:/quarks/quarks/java8/lib/quarks.runtime.jmxcontrol.jar"/>
+	<classpathentry kind="lib" path="C:/quarks/quarks/java8/lib/quarks.runtime.jsoncontrol.jar"/>
+	<classpathentry kind="lib" path="C:/quarks/quarks/java8/lib/quarks.spi.graph.jar"/>
+	<classpathentry kind="lib" path="C:/quarks/quarks/java8/lib/quarks.spi.topology.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
